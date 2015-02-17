@@ -1,8 +1,5 @@
----
-layout: page
-title: Yet-another-grudge-site .. why ?
-permalink: /about/
----
+
+## Official repo of [anopenletter.com](http://anopenlettr.com)
 
 This idea largely came when [Ashish aka Pocha](http://twitter.com/pocha) was having a lot of problems dealing with widely prevalent bureaucracy & shitty quality of service while running & eventually shutting his startup codelearn.org . Pocha then decided to do something about it. At first, he thought of creating a site for public shaming. The idea was to shame individuals/brands who do not provide the service they ought to be, to their customers. 
 
