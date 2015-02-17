@@ -1,10 +1,10 @@
 # Site settings
-title:       Shaming Them
+title:       An Open Letter
 email:       pocha.sharma@gmail.com
 author:      Ashish (Pocha) Sharma
-description: "Shaming organizations/individuals who aint doing their job right"
+description: "making democracy works better. more power to free speech"
 baseurl:     ""
-url:         "http://shaming-them.github.io"
+url:         "http://anopenlettr.com"
 
 # Google analytics
 google_analytics:

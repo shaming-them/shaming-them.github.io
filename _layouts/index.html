@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body class="{% if site.animated %}animated fade-in-down{% endif %}">
+    {% include header.html %} 
+  <br/>
+  <footer class="footer" style="height:auto">
+    <div class="p2 wrap"> 
+      <div class="measure mt1 center">
+          <blockquote>
+            <p>If liberty means anything at all, it means the right to tell people what they do not want to hear</p>
+            <footer><cite title="George Orwell">George Orwell</cite></footer>
+          </blockquote>
+      </div>
+    </div>
+  </footer>
+  <div  class="site-wrap">
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+</body>
+</html>
