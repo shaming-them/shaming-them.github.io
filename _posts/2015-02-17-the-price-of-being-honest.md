@@ -10,7 +10,7 @@ Dear [RBI](http://rbi.org.in) Governor,
 
 This is going to be a little long letter, so please bear with me for sometime. 
 
-I am Ashish, an IIT Madras grad & (still) Director of company, Codelearn Learning Pvt. Ltd. We incorporated way back in Dec 2012, when Jeremie from [Kima Ventures](www.kimaventures.com) confirmed an amount of USD 150k funding over **series of emails**. Please note, all that it takes for someone who has never met us, to trust & send that kind of money to us. 
+I am [Ashish](http://twitter.com/pocha), an IIT Madras grad & (still) Director of company, Codelearn Learning Pvt. Ltd. We incorporated way back in Dec 2012, when Jeremie from [Kima Ventures](www.kimaventures.com) confirmed an amount of USD 150k funding over **series of emails**. Please note, all that it takes for someone who has never met us, to trust & send that kind of money to us. 
 
 While incorporation, I & my partner got advice to incorporate the company in US. The primary reason was, our company has a global audience & it is easy to get a payment gateway if we have a US registered company. We did not go ahead with US registration & I think that is one of the biggest mistake of my life. I am going to elaborate why. 
 
@@ -56,7 +56,7 @@ Recently I caught tweet from a friend who mentioned how you can open a company b
 
 I am not sure if these process are helping you keeping a check on so called black money. If it is, I think they are doing the job. But please do look at the price honest entrepreneurs like me have to pay for these. I have been jobless since Oct 2014 & I am unable to concentrate on anything else because I wanted to remit back the money. Whenever I go & talk to somebody about this, the first question asked is - why do you want to return the money. Half of the conversation goes by (this happened at RBI too) where I am trying to convince people of my honest intentions.
 
-I am signing of with the hope that going ahead, you will be able to identify right steps to foster high tech entrepreneurship in India.  
+I am signing off with the hope that going ahead, you will be able to identify right steps to foster high tech entrepreneurship in India.  
 
 Thanking You
 
