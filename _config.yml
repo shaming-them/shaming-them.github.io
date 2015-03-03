@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://anopenlettr.com"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-59880537-1
 
 # Optional features
 animated:           false
@@ -19,7 +19,7 @@ show_post_footers:  false
 disqus_shortname: anopenlettr
 
 # Social icons
-show_social_icons: false
+show_social_icons: true
 github_username:
 stackoverflow_id:
 twitter_username:
