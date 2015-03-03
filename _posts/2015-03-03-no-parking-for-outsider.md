@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      No Parking Outside Vehicle on Public Road
+title:      'No Parking Outside Vehicle' on public road
 date:       2015-03-03 20:00:00
 summary:    We had parked vehicle on the road next to a house only to see it getting displaced 'ungraciously' by the house owner. Reason - he has put a board 'no parking outside vehicle'
 categories: social
