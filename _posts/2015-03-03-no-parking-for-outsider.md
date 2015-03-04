@@ -33,3 +33,11 @@ I have sent tweets to Bangalore City Police & Bangalore Commissioner. Lets see w
 Wife just called & said police has come to the spot. On inquiring with the house resident, it was being told that there is some handicap tenant (or some family member) who is unable to move the vehicles parked. They also put up a sorry face & start narrating story about how a lot of people park their vehicles & how it is a nuisance for them. 
 
 On poiting that they have 3 cars in their house & hence they need space on the street, they turned an ignorant face & probably have nothing to speak about. Police took note & left house with a stern warning. Not sure if they will remove the 'no parking outside vehicles' board from the tree though. 
+
+###Update on March 4, 4:00 PM
+
+[@blrcitytraffic](http://twitter.com/blrcitytraffic) has put BTM Mico Layout traffic inspector incharge of the case & passed on his number. 
+
+![BlrCityTraffic tweet with Mico Layout inspector contact](/images/no-parking-blrcitytraffic-tweet.png)
+
+I have forwarded the same to my friend Shilpa. She has told me that she is going to follow up with the inspector & see if they enforce removing of the sign board. More to come, stay tuned ... 
