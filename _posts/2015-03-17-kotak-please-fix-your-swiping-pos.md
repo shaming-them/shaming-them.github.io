@@ -38,3 +38,25 @@ Thank You
 Ashish Kumar Sharma
 <br/>CRN No - 47383561
 <br/>Phone - 9538384545
+
+
+<p id="update-1">--------------------------------</p>
+## Email from Kotak on April 12, 12:44 PM
+
+Below is the first email communication from Kotak
+
+![Kotak first email](/images/kotak-goofup-first-email.png)
+
+### My reply below
+
+Dear Kotak authority,
+
+1. I am not in receipt of any acknowledgement from GoIndigo. Neither I had time to do so.
+
+2. As per the screenshot, you have the transaction number which you can yourself check with Indigo. So I do not understand why you are insisting on me doing the job that ideally should be done by you. It wasn't my mistake & sorry I refuse to do your job. 
+
+While I appreciate your stance of willingness to return back the money (unlike the previous time where your executive clearly mentioned that it is a Visa rule & nothing can be done),  I would like you to take some more pain of verifying it yourself & hence ammending your system mistake. 
+
+Kindly acknowledge. 
+
+**I suggest that you put a reply to this blog post in the comment as it will project a more pro-active & customer friendly approach. Please remember - do not call.**
