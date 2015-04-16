@@ -39,6 +39,8 @@ Thank You
 
 ### Paytm resolves my issue 
 
+<small><i>April 16, 5:15 PM</i></small>
+
 While my friend Ashish & I both tweeted to Paytm, it took them sometime to notice us. Only when Ashish tweeted to them again today, we heard back from Paytm
 
 ![Paytm Resolution Twitter Screenshot](/images/paytm-gordhan-resolution.png)
