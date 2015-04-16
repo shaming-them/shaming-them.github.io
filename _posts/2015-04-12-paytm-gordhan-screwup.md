@@ -35,3 +35,14 @@ I would be waiting to hear from Paytm what explanation do they have for this scr
 Thank You
 <br/>Gordhan Singh
 
+<p id="update-1">---------</p>
+
+### Paytm commits to resolution 
+
+While my friend Ashish & I both tweeted to Paytm, it took them sometime to notice us. Only when Ashish tweeted to them again today, we heard back from Paytm
+
+![Paytm Resolution Twitter Screenshot](/images/paytm-gordhan-resolution.png)
+
+I will update the post as soon as money gets credited to my account. Stay tight :-)
+
+
