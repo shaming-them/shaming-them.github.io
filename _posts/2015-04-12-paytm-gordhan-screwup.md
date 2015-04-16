@@ -37,12 +37,14 @@ Thank You
 
 <p id="update-1">---------</p>
 
-### Paytm commits to resolution 
+### Paytm resolves my issue 
 
 While my friend Ashish & I both tweeted to Paytm, it took them sometime to notice us. Only when Ashish tweeted to them again today, we heard back from Paytm
 
 ![Paytm Resolution Twitter Screenshot](/images/paytm-gordhan-resolution.png)
 
-I will update the post as soon as money gets credited to my account. Stay tight :-)
+Immediately after the tweet, I got a call from Paytm & the money landed in my account shortly. 
+
+Thank you Paytm. Please do let us know what you doing to rectify your support. I had a word with Ashish too & he agreed that offlate the quality of Paytm support emails have degraded substantially. We would like to hear how you are taking care of the problem. Mind dropping a comment ?
 
 
