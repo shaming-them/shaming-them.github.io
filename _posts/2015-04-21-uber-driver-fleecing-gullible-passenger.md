@@ -17,6 +17,7 @@ Dear Uber Bangalore,
 
 ![Google Maps Jaydeva to Brookfield](/images/google-maps-jaydeva-brookfields.png)
 
+
 ![Uber Driver Longer Route Jaydeva to Brookfield](/images/uber-driver-longer-route-jaydeva-brookfields.png)
 
 Ideally, the total distance is around 18km & as per Google, it should take around 35 min. As per the bill, it was 35 km ride. 
