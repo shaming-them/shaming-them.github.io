@@ -29,5 +29,25 @@ Thank You
 Ashish Kumar Sharma
 <br/>Uber registered email - pocha.sharma@gmail.com 
 
+<p id="update-1">--------------</p>
 
+### Uber refunded money
+<small><i>April 21, 11:30 AM</i></small>
+
+![Uber Twitter Resolution](/images/uber-tweet-resolution-intimation.png)
+
+Thanks Uber for recalculating the bill. I so like you for not bugging me with a call for details & being upfront and fully automated in terms of resolution.
+
+Below are the copy of previous & corrected bill. 
+
+<table style="text-align:center">
+  <tr>
+    <td>
+![Uber Inflated Bill Screenshot](/images/uber-inflated-bill.png)
+    </td>
+    <td>
+![Uber Corrected Bill Screenshot](/images/uber-corrected-bill.png)
+    </td>
+  </tr>
+</table>
 
