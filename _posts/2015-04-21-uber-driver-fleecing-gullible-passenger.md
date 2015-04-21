@@ -40,18 +40,7 @@ Thanks Uber for recalculating the bill. I so like you for not bugging me with a 
 
 Below are the copy of previous & corrected bill. 
 
-<table style="text-align:center">
-  <tr>
-    <td>
-
 ![Uber Inflated Bill Screenshot](/images/uber-inflated-bill.png)
 
-    </td>
-    <td>
-
 ![Uber Corrected Bill Screenshot](/images/uber-corrected-bill.png)
-
-    </td>
-  </tr>
-</table>
 
