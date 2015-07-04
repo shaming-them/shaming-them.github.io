@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grab that elusive discount now
+title: Fitness trainers are cheap
 permalink: /localoye-campaign/
 ---
 
-[click me .. now .. I mean now](localoye://requirements?test=bla)
+[Post your requirement to avail 20% discount](localoye://requirements?test=bla)
