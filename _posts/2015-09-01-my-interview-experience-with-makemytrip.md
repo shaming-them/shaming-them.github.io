@@ -8,7 +8,7 @@ categories: interview-experience
 
 Dear MakeMyTrip,
 
-  I had been called to interview with MakeMyTrip for Director, Product Management (I guess) position. I was in touch with Shreya from HR.
+  I had been called to interview with MakeMyTrip for Director, Product Management (I guess) position. I was in touch with **Shreya Jain** from MMT HR.
 
 ![Shreya MakeMyTrip](/images/shreya-makemytrip.png)
   
@@ -77,3 +77,39 @@ Dear MakeMyTrip,
  2. If you have not empowered HR to make such monetary decisions, please do so. 
 
  Hope this helps to improve interview experience at MakeMyTrip. All the best. 
+
+Sincerely,
+Ashish Sharma
+pocha.sharma@gmail.com
+Ph - 9538384545 
+
+<p id="update-1">--------------</p>
+
+### Shreya reply to my email
+<small><i>Sep 2, 2:25 PM</i></small>
+
+I was able to use some help from *a friend* who helped escalting my woes in MMT to the head of tech & HR. I was plesantly surprised to see Shreya's email response (she has not responded to my emails earlier & even requesting her to reply has not yielded any result)
+
+![Shreya's email response](/images/makemytrip-shreya-email-response.png)
+
+<p id="update-2">--------------</p>
+
+### Accusation on phone call recording
+
+Couple of guys on Twitter are visibly upset with my phone call recording of Shreya's call. 
+
+![Brijesh's tweets](/images/makemytrip-brijesh-tweets.png)
+
+![Neha's indirect thread on Twitter](/images/makemytrip-neha-tweet-threat.png)
+
+I forgot to mention the reason why I have to record the phone call. Shreya wasn't responding to my emails & the treatment on the phone call was pretty cold the first time. The second time, well, I just could not take it. The only way I could put up my case was to record the call, which I did. 
+
+
+<p id="update-3">--------------</p>
+
+### MakeMyTrip offical reply on Twitter
+<small><i>Sep 2, 7:00 PM</i></small>
+
+MMT replied to my tweet 5 hours back. They said they have sent a communication my way but I have not get any offical email from them except for the mail from the HR. 
+
+![MMT official tweet reply](/images/makemytrip-tweet-reply.png)
