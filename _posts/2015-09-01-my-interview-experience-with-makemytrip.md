@@ -79,9 +79,10 @@ Dear MakeMyTrip,
  Hope this helps to improve interview experience at MakeMyTrip. All the best. 
 
 Sincerely,
-Ashish Sharma
-pocha.sharma@gmail.com
-Ph - 9538384545 
+
+Ashish Sharma<br/>
+pocha.sharma@gmail.com<br/>
+Ph - 9538384545<br/>
 
 <p id="update-1">--------------</p>
 
