@@ -62,7 +62,7 @@ Dear MakeMyTrip,
 
  I had told Shreya that it is a month long vacation for me. Post vacation, I came back & sent emails about the reiumbersement. I spoke to Gupinder who was managing my travel. He told me he is no more with MMT & asked me to sync up with Shreya. Shreya told me she has forwarded my emails to the right person in a very cold manner. 
   
- Today when I followed up with her, I was in for a shock. Shreya thinks that I had been unprofessional by ditching interview midway & if I had decency enough, I would not ask for the reiumbersement. She said, she would process the reiumbersement as a favor & wants me to remember the favor all my life.
+ Today when I followed up with her, I was in for a shock. **Shreya thinks that I had been unprofessional by ditching interview midway & if I had decency enough, I would not ask for the reiumbersement. She said, she would process the reiumbersement as a favor & wants me to remember the favor all my life.**
 
 #### Conversation with Shreya on Phone 
 <audio controls>
