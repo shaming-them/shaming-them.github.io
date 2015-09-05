@@ -2,7 +2,7 @@
 layout: post
 title: Oyo, fix your corporate booking
 date: 2015-09-05 16:00:00
-summary: My company DMX technologies had booked us an accommodation with **Oyo Premiere DLF Square**. On reaching Gurgaon 3 hours prior to our meeting, the hotel owner refused to give us rooms & we had to find a new hotel. 
+summary: My company DMX technologies had booked us an accommodation with Oyo Premiere DLF Square. On reaching Gurgaon 3 hours prior to our meeting, the hotel owner refused to give us rooms & we had to find a new hotel. 
 categories: ecommerce
 ---
 
