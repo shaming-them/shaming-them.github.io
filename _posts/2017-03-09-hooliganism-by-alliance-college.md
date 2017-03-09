@@ -8,7 +8,7 @@ categories: crime-reporting
 
 Dear @CPBlr (Police Commissioner Bangalore), 
 
-I am Shilpa, a lawyer working with IBM & currently staying at **#11, ground floor, 7th Main, 20 cross, BTM 2nd Stage** for past 2 years. I own a black Santro, Number KA 19, Z2343 which I park in the **public area next to Alliance College premise** as the street I stay in is very narrow & there is no parking space close to my house. 
+I am Shilpa, a lawyer by profession & currently staying at **#11, ground floor, 7th Main, 20 cross, BTM 2nd Stage** for past 2 years. I own a black Santro, Number KA 19, Z2343 which I park in the **public area next to Alliance College premise** as the street I stay in is very narrow & there is no parking space close to my house. 
 
 I have been doing this for past 2 years at least. I had parked the car on Monday, March 6th at the same location. When I went there on March 7th, Tuesday morning, I found the car missing. 
 
