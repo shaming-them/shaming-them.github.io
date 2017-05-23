@@ -27,3 +27,7 @@ BasavRaju<br/>
 Ph - 9916673654.
 
 **Update 11:17 AM** - The police officer is now asking us to go to some *Kandaya Bhawan* with the father of the victim & sign some form to be able to get possession of the body
+
+**Update 11:29 AM** - Tweet sent by @pocha to Kormangla police
+
+![Tweet to Police](/images/basav-kormangla-police-tweet.png)
