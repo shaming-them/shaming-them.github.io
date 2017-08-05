@@ -58,7 +58,9 @@ Below is the screenshot of my account being locked. That means, you surely are t
 
 Sincerely,<br/>
 Lakshmi G<br/>
-Acount number (last 4 digits): 1807
-Transaction details below
+Acount number (last 4 digits): 1807<br/>
+
+
+Transaction details below for your reference
 
 ![Citibank Fraud Transaction](/images/lakshmi-fraud-tx-detail.png)
