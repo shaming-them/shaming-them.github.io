@@ -55,3 +55,7 @@ There is no way I could send a written request to you anymore as my account is f
 Below is the screenshot of my account being locked. That means, you surely are taking my request seriously & blocked the account. Why no formal acknowledgement for the same ?
 
 <img src="/images/lakshmi-citibank-acc-locked.png" style="width:300px;"/><br/>
+
+Sincerely,<br/>
+Lakshmi G<br/>
+Acount number: ******1807</br>
