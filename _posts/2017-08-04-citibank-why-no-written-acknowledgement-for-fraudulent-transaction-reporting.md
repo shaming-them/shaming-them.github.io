@@ -3,7 +3,7 @@ layout:     post
 title:      No written acknowledgement from Citibank for fraudulent transaction reporting
 date:       2017-08-04 21:00:00
 summary:    I received notification of an ATM transaction that I did not did. I reported it to Citibank immediately on their customer care number. It is been 12 hours & there is no written acknowledgment from Citibank yet. 
-categories: Citibank, fraud, cyber-security
+categories: Citibank fraud cyber-security
 ---
 
 Dear Citibank India, 
