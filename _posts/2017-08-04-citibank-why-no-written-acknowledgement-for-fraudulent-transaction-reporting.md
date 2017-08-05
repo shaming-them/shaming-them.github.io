@@ -32,12 +32,12 @@ To add to it, your representative kept on insisting to file an FIR. I think you 
 Also attached is screenshot of the Citibank policy on fraudulent ATM transaction. Nowhere it says that we are suppose to file an FIR to get an acknowledgement from Citibank for reporting a fraud transaction. 
 
 
-<img src="/images/citibank-fraud-tx-report-policy.png" style="width:300px;"/><br/>
+<img src="/images/citibank-fraud-tx-report-policy.png" style="width:600px;"/><br/>
 
 Anyway, we were able to convince the authorities at Konankunte Bangalore Police Station to give us an acknowledgement which is proof enough that on Aug 4, 2017 between 9 PM (incident event) to 12 PM (end of day), I was in Bangalore. So hopefully this assertion is good enough to say that I did not do the ATM transaction in Hyderabad which is 500 kms away from Bangalore & hurried back to Bangalore to report the ATM fraud. 
 
 
-<img src="/images/police-ack-complaint-fraud-tx.png" style="width:300px;"/><br/>
+<img src="/images/police-ack-complaint-fraud-tx.png" style="width:600px;"/><br/>
 
 ### Why am I insisting on written acknowledgement
 
